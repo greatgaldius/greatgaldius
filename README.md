@@ -5,7 +5,7 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=greatgaldius&show_icons=true&theme=tokionight" height="150px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatgaldius&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width="350px" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatgaldius&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width="150px" >
 </div>
 
 ## Contato 
