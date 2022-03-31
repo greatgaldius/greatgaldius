@@ -3,9 +3,9 @@
 #### Sou um desenvolvedor Backe-End
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=greatgaldius&show_icons=true&theme=tokionight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=greatgaldius&show_icons=true&theme=tokionight" height="150px" />
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatgaldius&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatgaldius&layout=compact)](https://github.com/anuraghazra/github-readme-stats" width="350px" >
 </div>
 
 ## Contato 
