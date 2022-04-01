@@ -2,7 +2,7 @@
 #### Me chamo Marcelo
 #### Sou um desenvolvedor WEB em formação
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=greatgaldius&show_icons=true&theme=tokionight" height="150em">
+<img src="https://github-readme-stats.vercel.app/api?username=greatgaldius&show_icons=true&theme=dark" height="150em">
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatgaldius&layout=compact)](https://github.com/anuraghazra/github-readme-stats" height="250em">
 </p>
