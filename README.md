@@ -1,7 +1,6 @@
 #### Olá tudo bem ?
 #### Me chamo Marcelo
-#### Sou um desenvolvedor Backe-End
-
+#### Sou um desenvolvedor WEB em formação
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=greatgaldius&show_icons=true&theme=tokionight" height="150em">
 <p>
