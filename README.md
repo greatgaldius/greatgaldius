@@ -1,6 +1,5 @@
-#### Olá tudo bem ?
-#### Me chamo Marcelo
-#### Sou um desenvolvedor WEB em formação
+#### Olá, tudo bem?
+#### Me chamo Marcelo e sou um desenvolvedor WEB inciante
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=greatgaldius&show_icons=true&theme=dark" height="150em">
 <p>
